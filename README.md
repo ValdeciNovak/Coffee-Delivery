@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Coffee-Delivery
+=======
+>>>>>>> 0f3ef14 (Coffe Delivery v.1)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -49,6 +54,10 @@ export default tseslint.config({
   },
 })
 ```
+<<<<<<< HEAD
 =======
 # Coffee-Delivery
 >>>>>>> 8b2bffc (Initial commit)
+=======
+>>>>>>> 9e9297b (Coffe Delivery v.1)
+>>>>>>> 0f3ef14 (Coffe Delivery v.1)
