@@ -51,7 +51,7 @@ export function TypesCoffees() {
                   </div>
                 ))}
               </div>
-              <span className="font-baloo font-baloo700 text-xl leading-130 text-subtitle mt-4 mb-2">
+              <span className="  font-baloo700 text-xl leading-130 text-subtitle mt-4 mb-2">
                 {coffee.title}
               </span>
               <span className="text-descriptionColor px-5 text-center leading-130 text-sm font-roboto font-roboto400">
