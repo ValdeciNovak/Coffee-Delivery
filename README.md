@@ -142,9 +142,10 @@ Exemplo de imagem local no README:
 
 ## Autor
 
-- Valdeci Novak
+- Valdeci Novak Junior
 - GitHub: https://github.com/ValdeciNovak
 - LinkedIn - https://www.linkedin.com/in/valdecijuniordev/
 
 ---
+
 
