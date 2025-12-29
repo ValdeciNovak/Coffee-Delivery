@@ -144,5 +144,7 @@ Exemplo de imagem local no README:
 
 - Valdeci Novak
 - GitHub: https://github.com/ValdeciNovak
+- LinkedIn - https://www.linkedin.com/in/valdecijuniordev/
 
 ---
+
