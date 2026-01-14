@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Aplicação front-end em React + TypeScript criada com Vite que simula um serviço de delivery de cafés. A interface permite navegar por uma lista de cafés, escolher quantidades, adicionar ao carrinho, preencher dados de entrega e finalizar o pedido — com páginas de Home, Checkout e Sucesso.
+Aplicação front-end em React + TypeScript criada com Vite que simula um serviço de delivery de cafés. A interface permite navegar por uma lista de cafés, escolher quantidades, adicionar ao carrinho, preencher dados de entrega e finalizar o pedido com páginas de Home, Checkout e Sucesso.
 
 O objetivo é demonstrar componentização, uso de Context API para estado global, rotas com `react-router-dom` e estilização com `Tailwind CSS`.
 
@@ -147,5 +147,6 @@ Exemplo de imagem local no README:
 - LinkedIn - https://www.linkedin.com/in/valdecijuniordev/
 
 ---
+
 
 
